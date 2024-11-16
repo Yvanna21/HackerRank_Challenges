@@ -1,0 +1,10 @@
+#Ignorer les fichiers compilés
+*.class
+#Ignorer les fichiers de configuration de l'IDE
+*.iml
+#Ignorer les fichiers temporaires
+*.temp
+*.tmp
+#Ignorer les fichiers systeme
+.DS_Store
+Thumbs.db
